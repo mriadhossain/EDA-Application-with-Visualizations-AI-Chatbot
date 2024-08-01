@@ -14,9 +14,3 @@ This project is an EDA application developed using Python. It includes data prep
 - AI chatbot for data-related queries
 - Interactive user interface with Streamlit
 
-## Installation
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/mriadhossain/EDA-App-with-AI-Chatbot.git
-   cd EDA-App-with-AI-Chatbot
-
