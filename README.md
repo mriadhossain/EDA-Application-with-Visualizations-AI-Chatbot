@@ -1,6 +1,6 @@
 # EDA-Application-with-Visualizations-AI-Chatbot
 
-# Exploratory Data Analysis (EDA) Application WITH DYNAMIC VISUALIZATIONS & AI CHATBOT
+# Exploratory Data Analysis (EDA) Application With Dynamic Vizualization & AI Chatbot
 
 ## Project Description
 This Exploratory Data Analysis (EDA) application is developed using Python. It includes data preprocessing, visualizations, Dashboard and AI chatbot to assist users in exploring & analyzing data interactively.
